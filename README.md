@@ -1,6 +1,5 @@
-=====================
-py-cn-phone-area-code
-=====================
+
+# py-cn-phone-area-code
 
 
 Python lib , convert phone to area code , or find area phone code
@@ -8,10 +7,23 @@ Python lib , convert phone to area code , or find area phone code
 
 https://github.com/netroby/py-cn-phone-area-code
 
+## Install
+
+From pip
+
+https://pypi.python.org/pypi/py-cn-phone-area-code
+
+```
+pip install -U py-cn-phone-area-code
+```
+
+## Usage
+
 
 to use it, see tests
 
-```Python
+```
+
 from py_cn_phone_area_code import *
 
 def main():
